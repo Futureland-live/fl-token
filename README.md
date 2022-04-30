@@ -6,7 +6,7 @@ This code is building a crypto currency - a.k.a. fungible token - in the NEAR te
 
 The project reference is this one: https://github.com/near-examples/FT
 
-# References
+# Other references
 https://docs.near.org/docs/develop/basics/getting-started
 
 https://wallet.testnet.near.org
