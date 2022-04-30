@@ -3,6 +3,7 @@ Governance Fungible Token
 
 # Description
 This code is building a crypto currency - a.k.a. fungible token - in the NEAR testnet
+
 The project reference is this one: https://github.com/near-examples/FT
 
 # References
