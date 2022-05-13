@@ -1,3 +1,5 @@
+![FL-on-N](http://futureland.live/wp-content/uploads/2022/05/NEAR-futureland.png)
+
 # FL-Token
 Governance (Fungible) token base of Futureland's tokenomics. Futureland's team is working on defining the business model and token distribution process to create a incentivized economy with as less flaws as we can - avoiding web3 attacks and assuring security for all users and developers
 
