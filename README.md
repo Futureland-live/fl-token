@@ -1,12 +1,13 @@
 # FL-Token
-Governance Fungible Token
+Governance (Fungible) token base of Futureland's tokenomics. Futureland's team is working on defining the business model and token distribution process to create a incentivized economy with as less flaws as we can - avoiding web3 attacks and assuring security for all users and developers
 
 # Description
-This code is building a crypto currency - a.k.a. fungible token - in the NEAR testnet
+This code is an implementation of a reference project (found here: https://github.com/near-examples/FT) which is building a crypto currency - a.k.a. fungible token - using NEAR protocol in the NEAR testnet
 
-The project reference is this one: https://github.com/near-examples/FT
+This is one of the 2 or 3 tokens (still in technical analysis) that Futureland platform will have to organize and setup the incentives necessary for the business model
 
-# Other references
+
+# Other important references for future development
 https://docs.near.org/docs/develop/basics/getting-started
 
 https://wallet.testnet.near.org
