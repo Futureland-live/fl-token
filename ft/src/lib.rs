@@ -164,5 +164,7 @@ mod tests {
             .build());
         assert_eq!(contract.ft_balance_of(accounts(2)).0, (TOTAL_SUPPLY - transfer_amount));
         assert_eq!(contract.ft_balance_of(accounts(1)).0, transfer_amount);
+
+        /// TODO Add more functions to the fungible token
     }
 }
